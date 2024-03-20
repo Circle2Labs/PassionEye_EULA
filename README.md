@@ -1,6 +1,6 @@
-# PassionEye_EULA
+# PassionEyeEULA
 
-Current version of this document: 2023.10.20 v1.0.0
+Current version of this document: 2024.03.20 v1.0.1
 
 Simplified:
 
@@ -50,6 +50,6 @@ The company reserves rights to "bundle" third party mods in the game installatio
 
 
 Changes to this agreement
-The Company retains the right to update this Terms at any time. Any chances will go into effect with the next build version in the case where the change affects usage in third party products, or 14 days (2 weeks) for any other change. In the case of a changed ToS, any started projects will remain under the previous ToS.
+The Company retains the right to update this Terms at any time. Any changes will go into effect with the next build version in the case where the change affects usage in third party products, or 14 days (2 weeks) for any other change. In the case of a changed ToS, any started projects will remain under the previous ToS.
 
 ©2023 Circle 2 Labs

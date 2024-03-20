@@ -1,6 +1,6 @@
 # PassionEyeEULA
 
-Current version of this document: 2024.03.20 v1.0.1
+Current version of this document: 2024.03.20 v1.0.2
 
 Simplified:
 
@@ -16,7 +16,7 @@ We do not recommend using Early Access to create assets for third party products
 
 Terms of use:
 By installing and using Passion Eye (the Product) or using the associated services (the Service), you indicate that you have read and agree to the following terms and conditions. This constitutes a binding agreement between you (the User) and Circle 2 Labs (The Company).
-If you find that you do not agree to the Terms and Conditions as presented bellow, please refrain from using the Product.
+If you find that you do not agree to the Terms and Conditions as presented below, please refrain from using the Product.
 
 Restrictions:
 The following lists restrictions with usage of the Product or any related service:
